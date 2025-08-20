@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm currently a student at the University of Waterloo majoring in Computer Engineering. 
+You can reach me via email: j235tran@uwaterloo.ca
+
 <!--
 **ttran264/ttran264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
