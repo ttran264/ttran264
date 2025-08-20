@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 I'm currently a student at the University of Waterloo majoring in Computer Engineering. 
 You can reach me via email: j235tran@uwaterloo.ca
